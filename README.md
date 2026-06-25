@@ -1,5 +1,5 @@
 # 💫 About Me:
-Adnan Salim — CSE Honours Student<br>I’m Adnan Salim, currently pursuing my Honours in Computer Science & Engineering. I enjoy solving problems through code and building small, useful projects.<br>I’m focusing on Python, web development (HTML, CSS, JavaScript), automation scripts, and improving my problem-solving skills. I’m also looking for small freelance opportunities to gain real experience while studying.<br>When not coding, I learn new technologies and work on personal projects.<br>Open to:<br><br>Small freelance gigs<br>Collaborative projects<br>Connecting with other developers<br><br>Feel free to reach out if you have something interesting to build.
+Adnan Salim | CSE Honours Student<br>I’m Adnan Salim, currently pursuing my Honours in Computer Science & Engineering. I enjoy solving problems through code and building small, useful projects.<br>I’m focusing on Python, web development (HTML, CSS, JavaScript), automation scripts, and improving my problem-solving skills. I’m also looking for small freelance opportunities to gain real experience while studying.<br>When not coding, I learn new technologies and work on personal projects.<br>Open to:<br><br>Small freelance gigs<br>Collaborative projects<br>Connecting with other developers<br><br>Feel free to reach out if you have something interesting to build.
 
 
 ## 🌐 Socials:
